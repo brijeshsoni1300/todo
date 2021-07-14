@@ -1,0 +1,23 @@
+.note {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  background-color: #cad2c5;
+  border-radius: 10px;
+  padding: 10px;
+  width: 350px;
+}
+
+.note h3 {
+  color: #2d3b43;
+}
+
+.note p {
+  color: #2f3e46;
+}
+
+.note__delete {
+  display: flex;
+  flex-direction: column-reverse;
+  size: 2x;
+}
